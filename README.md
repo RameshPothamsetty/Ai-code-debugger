@@ -119,6 +119,9 @@ streamlit run main.py
 
 ---
 
+## 🌐 Live Demo
+👉 [Try it here](https://wzuqpuyxxxgrwukzmchqrs.streamlit.app)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
